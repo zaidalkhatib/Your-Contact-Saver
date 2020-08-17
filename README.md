@@ -6,6 +6,7 @@ This is a Contacts saver website. It helps you manage your contacts. You need to
 ### `npm run dev`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+React-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Node-Open [http://localhost:5000](http://localhost:3000) to view it in the browser.
 
 
